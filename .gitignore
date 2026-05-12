@@ -8,6 +8,7 @@
 .tmp_versions/
 
 lab5/kernel_stack
+lab4/kernel_stack
 
 *.log
 *~
